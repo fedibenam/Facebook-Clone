@@ -25,7 +25,7 @@ To explore the application, follow these steps:
 ## Contact
 I would love to hear from you! If you have any questions, suggestions, or opportunities, please feel free to reach out:
 
-Email: fedibenhamchesd@gmail.com 
-LinkedIn: https://www.linkedin.com/in/fedi-ben-hamouda/
+- Email: fedibenhamchesd@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/fedi-ben-hamouda/
 
 Thank you for visiting my project! Your feedback and contributions are greatly appreciated.
