@@ -21,11 +21,11 @@ To explore the application, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/facebook-clone.git
+   git clone https://github.com/fedibenam/facebook-clone.git
 ## Contact
 I would love to hear from you! If you have any questions, suggestions, or opportunities, please feel free to reach out:
 
-Email: fedibenhamchesd@gmail.com
-LinkedIn: Fedi Ben Hamouda
+Email: fedibenhamchesd@gmail.com 
+LinkedIn: https://www.linkedin.com/in/fedi-ben-hamouda/
 
 Thank you for visiting my project! Your feedback and contributions are greatly appreciated.
